@@ -1,5 +1,5 @@
-import 'package:blablacar/screens/rides/widgets/ride_pref_bar.dart';
 import 'package:flutter/material.dart';
+import 'package:week_3_blabla_project/screens/rides/widgets/ride_pref_bar.dart';
  
 import '../../dummy_data/dummy_data.dart';
 import '../../model/ride/ride.dart';
